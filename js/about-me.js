@@ -5,7 +5,7 @@ var emailAddress = 'kelsey.vaught92@gmail.com';
 var noblesville = true;
 var collegeYears = 2;
 var pets = 1;
-var sleepHours = parceFloat('8')
+var sleepHours = parseFloat('8')
 var music = 'disco';
 var moviesShows = [`Forgien-French`, `Game Shows`];
 var jobTitle 
